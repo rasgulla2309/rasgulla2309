@@ -125,9 +125,9 @@ Experiments
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_SECOND_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rasgulla2309&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_SECOND_USERNAME&theme=transparent&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=rasgulla2309&theme=transparent&hide_border=true" width="48%" />
 
 </div>
 
@@ -135,7 +135,7 @@ Experiments
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_SECOND_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasgulla2309&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
