@@ -115,7 +115,6 @@ Experiments
 | Project | Category | Description |
 |---|---|---|
 | 🛡️ Rakshak | Cybersecurity | Security monitoring and protection platform |
-| 🩺 SaarthiX | Healthcare + AI | Digital healthcare platform |
 | 🔎 Security Tools | Cybersecurity | Security research and testing utilities |
 | 🧪 Experiments | Development | Experimental and learning projects |
 
